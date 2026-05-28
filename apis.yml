@@ -1,0 +1,32 @@
+aid: yandex-maps-geocoder
+name: Yandex.Maps Geocoder
+description: "Use geocoding to get an object's coordinates from its address"
+url: https://yandex.com/dev/maps/geocoder
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: Yandex.Maps Geocoder
+    description: "Use geocoding to get an object's coordinates from its address"
+    humanURL: https://yandex.com/dev/maps/geocoder
+    baseURL: https://yandex.com/dev/maps/geocoder
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://yandex.com/dev/maps/geocoder
+common:
+  - type: Website
+    url: https://yandex.com/dev/maps/geocoder
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
