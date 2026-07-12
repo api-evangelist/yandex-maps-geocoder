@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://yandex.com/dev/maps/geocoder
 common:
+  - type: VulnerabilityDisclosure
+    url: security/yandex-maps-geocoder-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/yandex-maps-geocoder-domain-security.yml
   - type: Website
     url: https://yandex.com/dev/maps/geocoder
   - type: PublicAPIsListing
