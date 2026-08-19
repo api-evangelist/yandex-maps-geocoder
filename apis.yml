@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/yandex-map
 name: Yandex.Maps Geocoder
 description: "Use geocoding to get an object's coordinates from its address"
 url: https://yandex.com/dev/maps/geocoder
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
