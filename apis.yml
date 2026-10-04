@@ -39,7 +39,6 @@ apis:
   - name: Yandex.Maps Geocoder
     description: "Use geocoding to get an object's coordinates from its address"
     humanURL: https://yandex.com/dev/maps/geocoder
-    baseURL: https://yandex.com/dev/maps/geocoder
     tags:
       - Geocoding
     properties:
